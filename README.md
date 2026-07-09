@@ -1,2 +1,26 @@
-# SafeBrowse
-SaveBrowse is an open-source Android app that blocks unwanted websites using Android's Local VPN API with DNS filtering, SNI inspection, DoH/DoT support, IPv6 protection, automatic blocklist updates, and a privacy-first design.
+# 🛡️ SaveBrowse
+
+SaveBrowse is an open-source Android application that blocks unwanted websites using Android's Local VPN API.
+
+## Features
+
+- Local VPN protection
+- DNS Filtering
+- SNI Inspection
+- DoH / DoT Support
+- IPv6 Protection
+- Automatic Blocklist Updates
+- Privacy First
+- Open Source
+
+## Screenshots
+
+(Add screenshots here)
+
+## Installation
+
+Download the latest APK from the Releases section.
+
+## License
+
+MIT License
